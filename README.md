@@ -13,10 +13,13 @@
 - Донат‑аукцион маршрута (чат направляет, куда идти дальше).
 
 ## Скриншоты
-![Главная] (https://i.imgur.com/gjQGinu.png)
-![Кубик](https://imgur.com/sX3yVhK)
-![Картацион](https://imgur.com/YjJHHfc)
-![QR и Маршрут](https://imgur.com/yNRXXNq)
+<img width="1918" height="913" alt="каратцион-рф-вид-без-кубика" src="https://github.com/user-attachments/assets/b3728777-bc69-42a1-bfc5-7628547fce55" />
+<img width="1920" height="910" alt="каратцион-рф-вид-без-с-кубиком" src="https://github.com/user-attachments/assets/82413547-2f68-4f5b-83e9-6c549afe3046" />
+<img width="1917" height="914" alt="каратцион-рф-с-таймером" src="https://github.com/user-attachments/assets/56df4a57-d77b-4dad-b23d-177038c269d1" />
+<img width="1919" height="909" alt="каратцион-рф-с-QR-и-маршрутом" src="https://github.com/user-attachments/assets/fe1e224a-625f-4a86-b1e3-421b5c8d9a7b" />
+
+
+
 
 
 ## Основные возможности
